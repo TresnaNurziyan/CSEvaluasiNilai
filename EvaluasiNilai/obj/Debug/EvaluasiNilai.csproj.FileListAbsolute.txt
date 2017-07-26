@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\EvaluasiNilai\EvaluasiNilai\bin\Debug\EvaluasiNilai.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\EvaluasiNilai\EvaluasiNilai\bin\Debug\EvaluasiNilai.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\EvaluasiNilai\EvaluasiNilai\bin\Debug\EvaluasiNilai.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\EvaluasiNilai\EvaluasiNilai\obj\Debug\EvaluasiNilai.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\EvaluasiNilai\EvaluasiNilai\obj\Debug\EvaluasiNilai.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\EvaluasiNilai\EvaluasiNilai\obj\Debug\EvaluasiNilai.pdb
